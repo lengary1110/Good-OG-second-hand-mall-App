@@ -1,12 +1,10 @@
-# comp90018-assignment2 Good OG
+# Good OG
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Blackmesa-Canteen/comp90018-assignment2/dev/LICENSE?token=AQUQBSROD65KMHOLRQ2CK3TBNFGJ6)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 
-*This is an assignment for subject Comp90018 in the University of Melbourne.*
-
 ## Introduction
 Good OG is a second-hand mall APP for android. It supports product browsing, searching, publishing, instant messaging, voice messaging, positioning.
-A user can publish second-hand products for others to buy, while he can also buy from theothers.
+A user can publish second-hand products for others to buy, while he can also buy from the others.
 
 ## Tech stack
 
@@ -17,7 +15,7 @@ A user can publish second-hand products for others to buy, while he can also buy
 gif/screenshot
 
 ## Features
-- Product info viewing/product detials displaying;
+- Product info viewing/product details displaying;
 - Nearby product displaying;
 - Product categories;
 - Product name searching;
@@ -27,7 +25,7 @@ gif/screenshot
 - Authentication: Register/login
 - Profile management: Edit info/password/avatar
 - IM chat: Text, emoji, image, video, voice and location sharing;
-- Location service: Map displying, antigeocoding, decrypt coordinates in mainland China;
+- Location service: Map displaying, antigeocoding, decrypt coordinates in mainland China;
 - Media service: Gallery, Camera, Microphone.
 
 
